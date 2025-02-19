@@ -3656,7 +3656,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:creeper": "2025-02-19 22:01:17 +0000",
-      "minecraft:slime": "2025-02-19 22:00:36 +0000"
+      "minecraft:slime": "2025-02-19 22:00:36 +0000",
+      "minecraft:cave_spider": "2025-02-19 22:08:41 +0000",
+      "minecraft:silverfish": "2025-02-19 22:06:56 +0000"
     },
     "done": false
   },
@@ -7431,6 +7433,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_uranium_hammering": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:06 +0000"
+    },
+    "done": true
+  },
+  "silentgems:gem": {
+    "criteria": {
+      "get_item": "2025-02-19 22:07:06 +0000"
     },
     "done": true
   },
@@ -17676,6 +17684,13 @@
     },
     "done": true
   },
+  "silentgems:all_gems_classic": {
+    "criteria": {
+      "opal": "2025-02-19 22:07:06 +0000",
+      "sapphire": "2025-02-19 22:07:07 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/cosmetic_cat_ears": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:04 +0000"
@@ -18789,6 +18804,12 @@
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-02-19 22:11:40 +0000"
     },
     "done": true
   },
@@ -23982,6 +24003,12 @@
   "bigreactors:recipes/bigreactors.reactor/reactor/basic/casing": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-02-19 22:12:41 +0000"
     },
     "done": true
   },

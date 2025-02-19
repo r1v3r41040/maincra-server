@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "silentgems:hardened_rock": {
+    "criteria": {
+      "get_item": "2025-02-19 22:06:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:06 +0000"
@@ -17323,6 +17329,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-19 22:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:03 +0000"
@@ -17673,15 +17685,20 @@
   },
   "silentgems:all_gems_classic": {
     "criteria": {
+      "heliodor": "2025-02-19 22:07:25 +0000",
       "aquamarine": "2025-02-19 21:58:12 +0000",
+      "green_sapphire": "2025-02-19 22:06:42 +0000",
       "garnet": "2025-02-19 22:04:41 +0000",
+      "amber": "2025-02-19 22:09:02 +0000",
+      "onyx": "2025-02-19 22:06:39 +0000",
       "amethyst": "2025-02-19 22:04:36 +0000",
       "ruby": "2025-02-19 22:03:06 +0000",
       "tanzanite": "2025-02-19 21:58:13 +0000",
       "morganite": "2025-02-19 22:03:10 +0000",
       "peridot": "2025-02-19 21:59:01 +0000",
       "topaz": "2025-02-19 22:02:42 +0000",
-      "opal": "2025-02-19 21:58:38 +0000"
+      "opal": "2025-02-19 21:58:38 +0000",
+      "sapphire": "2025-02-19 22:06:46 +0000"
     },
     "done": false
   },
@@ -23339,6 +23356,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-02-19 22:16:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
@@ -23828,6 +23851,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-02-19 22:07:19 +0000"
     },
     "done": true
   },
