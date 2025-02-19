@@ -881,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-19 23:25:51 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/gold_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:06 +0000"
@@ -3679,6 +3685,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-19 23:24:10 +0000",
+      "minecraft:ravager": "2025-02-19 23:26:06 +0000",
+      "minecraft:vindicator": "2025-02-19 23:24:04 +0000",
       "minecraft:creeper": "2025-02-19 22:01:17 +0000",
       "minecraft:slime": "2025-02-19 22:00:36 +0000",
       "minecraft:cave_spider": "2025-02-19 22:08:41 +0000",
@@ -3749,6 +3758,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-19 23:24:04 +0000"
     },
     "done": true
   },
@@ -13346,6 +13361,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-19 23:24:51 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:05 +0000"
@@ -17097,6 +17118,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-19 23:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:06 +0000"
@@ -17789,6 +17816,7 @@
   },
   "silentgems:all_gems_classic": {
     "criteria": {
+      "heliodor": "2025-02-19 23:20:06 +0000",
       "green_sapphire": "2025-02-19 22:29:11 +0000",
       "garnet": "2025-02-19 22:29:11 +0000",
       "amber": "2025-02-19 22:29:11 +0000",

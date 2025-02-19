@@ -3644,8 +3644,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-19 23:11:33 +0000",
+      "minecraft:vindicator": "2025-02-19 23:25:06 +0000",
       "minecraft:creeper": "2025-02-19 22:02:18 +0000",
       "minecraft:slime": "2025-02-19 22:00:38 +0000",
+      "minecraft:husk": "2025-02-19 23:18:00 +0000",
       "minecraft:cave_spider": "2025-02-19 22:16:47 +0000",
       "minecraft:silverfish": "2025-02-19 21:59:18 +0000",
       "minecraft:stray": "2025-02-19 23:10:20 +0000",
@@ -3723,6 +3725,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-19 23:23:28 +0000"
     },
     "done": true
   },
@@ -17031,6 +17039,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-19 23:26:08 +0000"
     },
     "done": true
   },

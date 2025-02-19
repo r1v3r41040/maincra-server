@@ -750,3 +750,18 @@ java.lang.NullPointerException: null
 [19Feb2025 23:12:12.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was slain by Vex
 [19Feb2025 23:12:27.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX was slain by Vex
 [19Feb2025 23:19:20.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor discovered the floor was lava
+[19Feb2025 23:23:28.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Voluntary Exile]
+[19Feb2025 23:23:44.611] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2348, l='ServerLevel[world]', x=0.72, y=67.42, z=-1.30] died, message: 'Villager was slain by Vindicator'
+[19Feb2025 23:24:04.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Voluntary Exile]
+[19Feb2025 23:24:32.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was slain by Vindicator
+[19Feb2025 23:24:34.960] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/2900, l='ServerLevel[world]', x=0.40, y=67.00, z=10.19]
+[19Feb2025 23:24:42.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX was slain by Vindicator
+[19Feb2025 23:24:51.260] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2349, l='ServerLevel[world]', x=4.35, y=68.00, z=1.70] died, message: 'Villager was slain by Vindicator'
+[19Feb2025 23:24:51.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Isn't It Iron Pick]
+[19Feb2025 23:24:58.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was slain by Vindicator
+[19Feb2025 23:25:00.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX was slain by Vindicator
+[19Feb2025 23:25:07.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was slain by Vindicator
+[19Feb2025 23:25:49.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was slain by Ravager
+[19Feb2025 23:25:51.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Not Today, Thank You]
+[19Feb2025 23:26:08.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has completed the challenge [Hero of the Village]
+[19Feb2025 23:26:08.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has completed the challenge [Hero of the Village]
