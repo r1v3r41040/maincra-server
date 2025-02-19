@@ -3653,6 +3653,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-02-19 22:01:17 +0000",
+      "minecraft:slime": "2025-02-19 22:00:36 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:03 +0000"
@@ -6502,6 +6509,12 @@
       "has_the_recipe": "2025-02-18 23:24:04 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-02-19 22:00:41 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/misc/crafting/string": {
     "criteria": {
@@ -9518,6 +9531,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-19 22:00:36 +0000"
     },
     "done": true
   },
@@ -17303,6 +17322,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-19 22:02:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:05 +0000"
@@ -20507,6 +20532,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-19 22:03:13 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_fluid_grid": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:05 +0000"
@@ -22643,6 +22674,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:slime": "2025-02-19 22:00:36 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/grip_blueprint": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
@@ -23312,6 +23349,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-02-19 22:02:23 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
@@ -23795,6 +23838,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-02-19 22:01:19 +0000"
     },
     "done": true
   },

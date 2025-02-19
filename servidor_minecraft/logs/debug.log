@@ -11240,3 +11240,21 @@ java.lang.NullPointerException: null
 [19Feb2025 21:57:59.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Isn't It Iron Pick]
 [19Feb2025 21:58:12.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Shinies Acquired!]
 [19Feb2025 21:59:18.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Monster Hunter]
+[19Feb2025 22:00:36.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Monster Hunter]
+[19Feb2025 22:01:09.298] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 22:01:09.357] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 22:01:09.398] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 22:01:09.414] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 22:01:47.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Diamonds!]
+[19Feb2025 22:03:13.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Getting an Upgrade]
+[19Feb2025 22:05:06.608] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.inventory.DoubleSidedInventory
+[19Feb2025 22:06:09.298] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 22:06:09.359] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 22:06:09.393] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 22:06:09.406] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 22:06:13.093] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2dde5634
+[19Feb2025 22:06:14.071] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2dde5634
+[19Feb2025 22:06:36.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Why Is This Here!?]
+[19Feb2025 22:07:06.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Shinies Acquired!]
+[19Feb2025 22:08:29.790] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
+[19Feb2025 22:08:34.471] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
