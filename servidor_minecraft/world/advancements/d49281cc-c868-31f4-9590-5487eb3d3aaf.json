@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:06 +0000"
@@ -878,6 +884,12 @@
   "immersiveengineering:recipes/misc/crafting/gold_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
     },
     "done": true
   },
@@ -1388,6 +1400,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
     },
     "done": true
   },
@@ -2831,6 +2849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/dreamwood_planks": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:03 +0000"
@@ -3647,6 +3671,7 @@
       "minecraft:vindicator": "2025-02-19 23:25:06 +0000",
       "minecraft:creeper": "2025-02-19 22:02:18 +0000",
       "minecraft:slime": "2025-02-19 22:00:38 +0000",
+      "minecraft:witch": "2025-02-19 23:30:10 +0000",
       "minecraft:husk": "2025-02-19 23:18:00 +0000",
       "minecraft:cave_spider": "2025-02-19 22:16:47 +0000",
       "minecraft:silverfish": "2025-02-19 21:59:18 +0000",
@@ -4163,6 +4188,12 @@
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/activefluidport_forge": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
     },
     "done": true
   },
@@ -5399,6 +5430,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded_slab_from_concrete_leaded_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
     },
     "done": true
   },
@@ -9884,6 +9921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_crate": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
@@ -13724,6 +13767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:06 +0000"
@@ -17150,6 +17199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard_from_wooden_top": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
@@ -18575,6 +18630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/router": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
@@ -19985,6 +20046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
@@ -20120,6 +20187,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
     },
     "done": true
   },
@@ -20390,6 +20463,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/black_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
     },
     "done": true
   },
@@ -23423,6 +23502,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-19 22:36:26 +0000",
+      "apple": "2025-02-19 23:30:15 +0000",
+      "pumpkin_pie": "2025-02-19 23:28:57 +0000",
       "bread": "2025-02-19 22:16:01 +0000",
       "mushroom_stew": "2025-02-19 22:50:43 +0000"
     },
@@ -23962,6 +24043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:06 +0000"
@@ -24013,6 +24100,12 @@
   "silentgear:recipes/silentgear/ring_blueprint_alt": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-19 23:35:12 +0000"
     },
     "done": true
   },

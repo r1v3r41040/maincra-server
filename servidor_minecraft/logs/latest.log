@@ -765,3 +765,6 @@ java.lang.NullPointerException: null
 [19Feb2025 23:25:51.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Not Today, Thank You]
 [19Feb2025 23:26:08.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has completed the challenge [Hero of the Village]
 [19Feb2025 23:26:08.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has completed the challenge [Hero of the Village]
+[19Feb2025 23:31:17.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was shot by Stray
+[19Feb2025 23:37:50.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was slain by Vindicator
+[19Feb2025 23:39:43.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Best Friends Forever]

@@ -11397,3 +11397,47 @@ java.lang.NullPointerException: null
 [19Feb2025 23:26:09.352] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [19Feb2025 23:26:09.393] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Feb2025 23:26:09.408] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 23:31:09.296] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:31:09.353] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:31:09.389] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:31:09.403] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 23:31:17.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was shot by Stray
+[19Feb2025 23:31:18.444] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Xx_R1V3R4_xX's Iron Axe
+[19Feb2025 23:31:18.445] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
+[19Feb2025 23:31:18.445] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[19Feb2025 23:31:18.445] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Level: 2.0 -> 2.0 (+0.0) - mods: [↑2]
+[19Feb2025 23:31:18.445] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 249.99998 -> 249.99998 (+0.0) - mods: [250]
+[19Feb2025 23:31:18.445] [Server thread/DEBUG] [Silent Gear/]:  - Chargeability: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[19Feb2025 23:31:18.445] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.1 -> -3.1 (+0.0) - mods: [-0.1, -3]
+[19Feb2025 23:31:18.445] [Server thread/DEBUG] [Silent Gear/]:  - Enchantability: 15.4 -> 15.4 (+0.0) - mods: [14, x1.1]
+[19Feb2025 23:31:18.446] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 12.129943 -> 12.129943 (+0.0) - mods: [20, 1]
+[19Feb2025 23:31:18.446] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 7.0 -> 7.0 (+0.0) - mods: [2, +5]
+[19Feb2025 23:31:18.446] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[19Feb2025 23:32:35.895] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Xx_R1V3R4_xX's Iron Axe
+[19Feb2025 23:32:35.896] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
+[19Feb2025 23:32:35.896] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[19Feb2025 23:32:35.896] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Level: 2.0 -> 2.0 (+0.0) - mods: [↑2]
+[19Feb2025 23:32:35.896] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 249.99998 -> 249.99998 (+0.0) - mods: [250]
+[19Feb2025 23:32:35.896] [Server thread/DEBUG] [Silent Gear/]:  - Chargeability: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[19Feb2025 23:32:35.896] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.1 -> -3.1 (+0.0) - mods: [-0.1, -3]
+[19Feb2025 23:32:35.897] [Server thread/DEBUG] [Silent Gear/]:  - Enchantability: 15.4 -> 15.4 (+0.0) - mods: [14, x1.1]
+[19Feb2025 23:32:35.897] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 12.129943 -> 12.129943 (+0.0) - mods: [20, 1]
+[19Feb2025 23:32:35.897] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 7.0 -> 7.0 (+0.0) - mods: [2, +5]
+[19Feb2025 23:32:35.897] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[19Feb2025 23:36:09.293] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:36:09.352] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:36:09.384] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:36:09.398] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 23:37:50.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was slain by Vindicator
+[19Feb2025 23:38:00.121] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Xx_R1V3R4_xX's Iron Axe
+[19Feb2025 23:38:00.122] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
+[19Feb2025 23:38:00.122] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[19Feb2025 23:38:00.122] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Level: 2.0 -> 2.0 (+0.0) - mods: [↑2]
+[19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 249.99998 -> 249.99998 (+0.0) - mods: [250]
+[19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Chargeability: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.1 -> -3.1 (+0.0) - mods: [-0.1, -3]
+[19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Enchantability: 15.4 -> 15.4 (+0.0) - mods: [14, x1.1]
+[19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 12.129943 -> 12.129943 (+0.0) - mods: [20, 1]
+[19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 7.0 -> 7.0 (+0.0) - mods: [2, +5]
+[19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[19Feb2025 23:39:43.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Best Friends Forever]
