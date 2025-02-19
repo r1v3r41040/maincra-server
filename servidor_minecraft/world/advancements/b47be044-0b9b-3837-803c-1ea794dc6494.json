@@ -13766,6 +13766,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-02-19 22:46:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_andesite_wall_from_paved_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"

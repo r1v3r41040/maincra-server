@@ -5272,6 +5272,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-19 22:50:43 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_white_to_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:06 +0000"
@@ -23401,7 +23407,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-19 22:36:26 +0000",
-      "bread": "2025-02-19 22:16:01 +0000"
+      "bread": "2025-02-19 22:16:01 +0000",
+      "mushroom_stew": "2025-02-19 22:50:43 +0000"
     },
     "done": false
   },

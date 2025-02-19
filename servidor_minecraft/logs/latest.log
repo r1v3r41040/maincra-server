@@ -744,3 +744,5 @@ java.lang.NullPointerException: null
 [19Feb2025 22:34:56.010] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2dde5634
 [19Feb2025 22:41:41.093] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7, y=77, z=2} BlockPos{x=-8, y=76, z=1}
 [19Feb2025 22:41:41.138] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7, y=77, z=2} BlockPos{x=-8, y=76, z=1}
+[19Feb2025 22:56:53.455] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
+[19Feb2025 22:56:56.499] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
