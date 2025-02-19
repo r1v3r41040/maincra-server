@@ -11310,3 +11310,11 @@ java.lang.NullPointerException: null
 [19Feb2025 22:56:09.393] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [19Feb2025 22:56:53.455] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
 [19Feb2025 22:56:56.499] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
+[19Feb2025 23:01:09.292] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:01:09.352] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:01:09.383] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:01:09.394] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 23:06:09.293] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:06:09.350] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:06:09.381] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:06:09.395] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
