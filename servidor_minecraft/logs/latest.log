@@ -740,3 +740,5 @@ java.lang.NullPointerException: null
 [19Feb2025 22:25:22.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Acquire Hardware]
 [19Feb2025 22:25:25.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has completed the challenge [Classic Set]
 [19Feb2025 22:27:36.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [A Seedy Place]
+[19Feb2025 22:34:45.703] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@6569cfa5
+[19Feb2025 22:34:56.010] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2dde5634

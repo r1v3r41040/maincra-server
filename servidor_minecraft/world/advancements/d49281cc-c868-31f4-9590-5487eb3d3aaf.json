@@ -3646,7 +3646,9 @@
       "minecraft:creeper": "2025-02-19 22:02:18 +0000",
       "minecraft:slime": "2025-02-19 22:00:38 +0000",
       "minecraft:cave_spider": "2025-02-19 22:16:47 +0000",
-      "minecraft:silverfish": "2025-02-19 21:59:18 +0000"
+      "minecraft:silverfish": "2025-02-19 21:59:18 +0000",
+      "minecraft:vex": "2025-02-19 22:31:47 +0000",
+      "minecraft:zombie_villager": "2025-02-19 22:30:14 +0000"
     },
     "done": false
   },
@@ -5323,6 +5325,12 @@
       "has_the_recipe": "2025-02-19 21:50:04 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-02-19 22:27:36 +0000"
+    },
+    "done": false
   },
   "silentgear:recipes/silentgear/fluffy_feather": {
     "criteria": {
@@ -22858,6 +22866,12 @@
   "botania:recipes/botania/shimmerrock_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-19 22:27:36 +0000"
     },
     "done": true
   },
