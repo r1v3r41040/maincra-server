@@ -709,3 +709,19 @@ java.lang.NullPointerException: null
 [19Feb2025 21:49:09.383] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Xx_R1V3R4_xX[/100.123.174.84:51641] logged in with entity id 167 at (-1.2255916124637356, 67.0, 4.992438519847823)
 [19Feb2025 21:49:09.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX joined the game
 [19Feb2025 21:49:09.423] [Server thread/INFO] [Waila/]: Syncing config to Xx_R1V3R4_xX (b47be044-0b9b-3837-803c-1ea794dc6494)
+[19Feb2025 21:50:03.110] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1bac2501
+[19Feb2025 21:50:03.121] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TitanConor[/100.114.217.7:52276] logged in with entity id 178 at (5.5, 68.0, 3.5)
+[19Feb2025 21:50:03.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor joined the game
+[19Feb2025 21:50:03.239] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] TitanConor spawned withers counter was below the set 'Starting Difficulty', Has been increased to match 'Starting Difficulty'
+[19Feb2025 21:50:03.239] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] TitanConor killed dragons counter was below the set 'Starting Difficulty', Has been increased to match 'Starting Difficulty'
+[19Feb2025 21:50:03.240] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] TitanConor first spawned. Set First Dragon to 1
+[19Feb2025 21:50:03.276] [Server thread/INFO] [Waila/]: Syncing config to TitanConor (d49281cc-c868-31f4-9590-5487eb3d3aaf)
+[19Feb2025 21:50:07.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3879ms or 77 ticks behind
+[19Feb2025 21:55:25.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Getting an Upgrade]
+[19Feb2025 21:55:30.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Stone Age]
+[19Feb2025 21:57:04.031] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2dde5634
+[19Feb2025 21:57:06.923] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
+[19Feb2025 21:57:51.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Acquire Hardware]
+[19Feb2025 21:57:59.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Isn't It Iron Pick]
+[19Feb2025 21:58:12.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Shinies Acquired!]
+[19Feb2025 21:59:18.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Monster Hunter]

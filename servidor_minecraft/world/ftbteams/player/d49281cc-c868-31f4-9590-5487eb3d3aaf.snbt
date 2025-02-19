@@ -1,0 +1,20 @@
+{
+	id: "d49281cc-c868-31f4-9590-5487eb3d3aaf"
+	type: "player"
+	player_name: "TitanConor"
+	ranks: {
+		d49281cc-c868-31f4-9590-5487eb3d3aaf: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "TitanConor"
+		"ftbteams:color": "#C859FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
