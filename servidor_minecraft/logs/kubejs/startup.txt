@@ -1,0 +1,2 @@
+[23:19:26] [INFO ] Loaded script startup_scripts:bumblezone_black_list.js in 0.245 s
+[23:19:26] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.609 s
