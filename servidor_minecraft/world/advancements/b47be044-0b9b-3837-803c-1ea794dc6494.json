@@ -18968,6 +18968,12 @@
     },
     "done": true
   },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "axe": "2025-02-19 22:41:43 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/elementium_leggings": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
@@ -19912,6 +19918,7 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "string": "2025-02-19 22:38:26 +0000",
       "wood": "2025-02-19 22:26:01 +0000",
       "stone": "2025-02-19 22:26:01 +0000",
       "flint": "2025-02-19 22:30:25 +0000"
