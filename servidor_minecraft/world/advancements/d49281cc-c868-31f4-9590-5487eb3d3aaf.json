@@ -2123,6 +2123,12 @@
     },
     "done": true
   },
+  "silentgems:chaos_crystal": {
+    "criteria": {
+      "get_item": "2025-02-19 22:19:57 +0000"
+    },
+    "done": true
+  },
   "blockcarpentry:recipes/blockcarpentry/illusion_carpet": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:06 +0000"
@@ -3639,6 +3645,7 @@
     "criteria": {
       "minecraft:creeper": "2025-02-19 22:02:18 +0000",
       "minecraft:slime": "2025-02-19 22:00:38 +0000",
+      "minecraft:cave_spider": "2025-02-19 22:16:47 +0000",
       "minecraft:silverfish": "2025-02-19 21:59:18 +0000"
     },
     "done": false
@@ -6498,6 +6505,12 @@
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-02-19 22:22:14 +0000"
+    },
+    "done": false
   },
   "botania:recipes/botania/pattern_1_2": {
     "criteria": {
@@ -10105,6 +10118,12 @@
     },
     "done": true
   },
+  "silentgems:soul_gem": {
+    "criteria": {
+      "get_item": "2025-02-19 22:22:10 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cosmetic_lusitanic_shield": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
@@ -12700,6 +12719,12 @@
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-19 22:23:42 +0000"
     },
     "done": true
   },
@@ -17686,12 +17711,14 @@
   "silentgems:all_gems_classic": {
     "criteria": {
       "heliodor": "2025-02-19 22:07:25 +0000",
+      "phosphophyllite": "2025-02-19 22:25:25 +0000",
       "aquamarine": "2025-02-19 21:58:12 +0000",
       "green_sapphire": "2025-02-19 22:06:42 +0000",
       "garnet": "2025-02-19 22:04:41 +0000",
       "amber": "2025-02-19 22:09:02 +0000",
       "onyx": "2025-02-19 22:06:39 +0000",
       "amethyst": "2025-02-19 22:04:36 +0000",
+      "agate": "2025-02-19 22:19:12 +0000",
       "ruby": "2025-02-19 22:03:06 +0000",
       "tanzanite": "2025-02-19 21:58:13 +0000",
       "morganite": "2025-02-19 22:03:10 +0000",
@@ -17700,7 +17727,7 @@
       "opal": "2025-02-19 21:58:38 +0000",
       "sapphire": "2025-02-19 22:06:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "botania:recipes/botania/cosmetic_cat_ears": {
     "criteria": {

@@ -11266,3 +11266,17 @@ java.lang.NullPointerException: null
 [19Feb2025 22:16:09.348] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [19Feb2025 22:16:09.380] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Feb2025 22:16:09.393] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 22:19:57.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Chaos Acquired!]
+[19Feb2025 22:21:09.291] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 22:21:09.348] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 22:21:09.378] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 22:21:09.391] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 22:22:10.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Soul Gem]
+[19Feb2025 22:23:42.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Suit Up]
+[19Feb2025 22:25:22.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Acquire Hardware]
+[19Feb2025 22:25:25.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has completed the challenge [Classic Set]
+[19Feb2025 22:26:09.293] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 22:26:09.350] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 22:26:09.384] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 22:26:09.461] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 22:27:36.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [A Seedy Place]

@@ -9272,6 +9272,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-19 22:25:22 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:05 +0000"
@@ -11213,6 +11219,12 @@
   "create:recipes/create.palettes/paved_granite_slab_from_paved_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-02-19 22:24:13 +0000"
     },
     "done": true
   },
@@ -15272,6 +15284,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-19 22:25:22 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/sturdy_repair_kit": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
@@ -16087,6 +16105,12 @@
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-02-19 22:26:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -19761,6 +19785,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-02-19 22:26:01 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/advanced_upgrade_base": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:06 +0000"
@@ -19814,6 +19844,13 @@
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "wood": "2025-02-19 22:26:01 +0000",
+      "stone": "2025-02-19 22:26:01 +0000"
+    },
+    "done": false
   },
   "botania:recipes/botania/corporea_brick_wall": {
     "criteria": {
