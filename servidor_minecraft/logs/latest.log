@@ -746,3 +746,7 @@ java.lang.NullPointerException: null
 [19Feb2025 22:41:41.138] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-7, y=77, z=2} BlockPos{x=-8, y=76, z=1}
 [19Feb2025 22:56:53.455] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
 [19Feb2025 22:56:56.499] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
+[19Feb2025 23:11:52.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Ka-chink! 1]
+[19Feb2025 23:12:12.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor was slain by Vex
+[19Feb2025 23:12:27.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX was slain by Vex
+[19Feb2025 23:19:20.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor discovered the floor was lava

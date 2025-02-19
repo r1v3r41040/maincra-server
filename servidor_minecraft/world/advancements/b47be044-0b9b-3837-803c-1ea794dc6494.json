@@ -5306,6 +5306,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-19 23:12:24 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_white_to_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:07 +0000"
@@ -16527,6 +16533,12 @@
     },
     "done": true
   },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-02-19 23:11:52 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.general/graphite_component_to_storage": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:05 +0000"
@@ -23512,7 +23524,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-02-19 22:02:23 +0000"
+      "bread": "2025-02-19 22:02:23 +0000",
+      "mushroom_stew": "2025-02-19 23:12:24 +0000"
     },
     "done": false
   },

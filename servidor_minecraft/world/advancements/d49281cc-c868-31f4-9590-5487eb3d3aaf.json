@@ -3643,10 +3643,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-19 23:11:33 +0000",
       "minecraft:creeper": "2025-02-19 22:02:18 +0000",
       "minecraft:slime": "2025-02-19 22:00:38 +0000",
       "minecraft:cave_spider": "2025-02-19 22:16:47 +0000",
       "minecraft:silverfish": "2025-02-19 21:59:18 +0000",
+      "minecraft:stray": "2025-02-19 23:10:20 +0000",
       "minecraft:vex": "2025-02-19 22:31:47 +0000",
       "minecraft:zombie_villager": "2025-02-19 22:30:14 +0000"
     },
