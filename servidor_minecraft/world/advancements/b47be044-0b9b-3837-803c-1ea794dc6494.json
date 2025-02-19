@@ -2165,6 +2165,12 @@
     },
     "done": true
   },
+  "silentgems:chaos_crystal": {
+    "criteria": {
+      "get_item": "2025-02-19 23:41:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mushroom_11": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:03 +0000"
@@ -3692,7 +3698,8 @@
       "minecraft:slime": "2025-02-19 22:00:36 +0000",
       "minecraft:cave_spider": "2025-02-19 22:08:41 +0000",
       "minecraft:silverfish": "2025-02-19 22:06:56 +0000",
-      "minecraft:stray": "2025-02-19 23:31:20 +0000"
+      "minecraft:stray": "2025-02-19 23:31:20 +0000",
+      "minecraft:zombie_villager": "2025-02-19 23:36:17 +0000"
     },
     "done": false
   },
@@ -10185,6 +10192,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:06 +0000"
+    },
+    "done": true
+  },
+  "silentgems:soul_gem": {
+    "criteria": {
+      "get_item": "2025-02-19 23:41:47 +0000"
     },
     "done": true
   },
@@ -17818,10 +17831,13 @@
   "silentgems:all_gems_classic": {
     "criteria": {
       "heliodor": "2025-02-19 23:20:06 +0000",
+      "aquamarine": "2025-02-19 23:37:41 +0000",
       "green_sapphire": "2025-02-19 22:29:11 +0000",
       "garnet": "2025-02-19 22:29:11 +0000",
       "amber": "2025-02-19 22:29:11 +0000",
+      "amethyst": "2025-02-19 23:41:47 +0000",
       "ruby": "2025-02-19 22:29:04 +0000",
+      "topaz": "2025-02-19 23:41:47 +0000",
       "opal": "2025-02-19 22:07:06 +0000",
       "sapphire": "2025-02-19 22:07:07 +0000"
     },
@@ -23554,6 +23570,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-02-19 22:02:23 +0000",
+      "melon_slice": "2025-02-19 23:39:28 +0000",
       "mushroom_stew": "2025-02-19 23:12:24 +0000"
     },
     "done": false

@@ -6801,6 +6801,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-19 23:39:43 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge_stair": {
     "criteria": {
       "has_the_recipe": "2025-02-19 21:50:04 +0000"

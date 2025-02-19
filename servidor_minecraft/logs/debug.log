@@ -11441,3 +11441,23 @@ java.lang.NullPointerException: null
 [19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 7.0 -> 7.0 (+0.0) - mods: [2, +5]
 [19Feb2025 23:38:00.123] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
 [19Feb2025 23:39:43.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor has made the advancement [Best Friends Forever]
+[19Feb2025 23:41:05.461] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[19Feb2025 23:41:05.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[19Feb2025 23:41:05.494] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:41:05.551] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:41:05.578] [Thread-103/INFO] [FTB Utilities Backups/]: Backing up 84 files...
+[19Feb2025 23:41:05.579] [Thread-103/INFO] [FTB Utilities Backups/]: Compressing 84 files...
+[19Feb2025 23:41:05.580] [Server thread/INFO] [FTB Utilities Backups/]: [0 | 0%]: world/DIM1/data/raids_end.dat
+[19Feb2025 23:41:05.813] [Thread-103/INFO] [FTB Utilities Backups/]: Done compressing in 235ms seconds (2.5MB)!
+[19Feb2025 23:41:05.814] [Thread-103/INFO] [FTB Utilities Backups/]: Created /workspaces/maincra-server/servidor_minecraft/backups/2025-02-19-23-41-05.zip from /workspaces/maincra-server/servidor_minecraft/world
+[19Feb2025 23:41:05.816] [Thread-103/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 242ms! (2.5MB)
+[19Feb2025 23:41:09.295] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:41:09.351] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:41:09.386] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:41:09.397] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 23:41:47.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Soul Gem]
+[19Feb2025 23:41:47.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Chaos Acquired!]
+[19Feb2025 23:46:09.295] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:46:09.350] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:46:09.385] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:46:09.399] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
