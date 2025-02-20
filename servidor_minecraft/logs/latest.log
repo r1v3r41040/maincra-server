@@ -778,3 +778,11 @@ java.lang.NullPointerException: null
 [19Feb2025 23:41:05.816] [Thread-103/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 242ms! (2.5MB)
 [19Feb2025 23:41:47.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Soul Gem]
 [19Feb2025 23:41:47.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Chaos Acquired!]
+[19Feb2025 23:51:21.920] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@23609d13
+[19Feb2025 23:51:27.683] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@23609d13
+[19Feb2025 23:54:34.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Now You're Thinking With Hoppers]
+[19Feb2025 23:57:24.899] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2282821a
+[19Feb2025 23:58:08.029] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@6569cfa5
+[19Feb2025 23:58:15.640] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
+[19Feb2025 23:59:25.562] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TitanConor lost connection: Disconnected
+[19Feb2025 23:59:25.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor left the game

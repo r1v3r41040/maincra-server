@@ -11461,3 +11461,20 @@ java.lang.NullPointerException: null
 [19Feb2025 23:46:09.350] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
 [19Feb2025 23:46:09.385] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19Feb2025 23:46:09.399] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 23:51:09.294] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:51:09.350] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:51:09.388] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:51:09.402] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 23:51:21.920] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@23609d13
+[19Feb2025 23:51:27.683] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@23609d13
+[19Feb2025 23:54:34.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX has made the advancement [Now You're Thinking With Hoppers]
+[19Feb2025 23:56:09.295] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:56:09.350] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[19Feb2025 23:56:09.387] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:56:09.401] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19Feb2025 23:57:24.899] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@2282821a
+[19Feb2025 23:58:08.029] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@6569cfa5
+[19Feb2025 23:58:15.640] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@30d4af5f
+[19Feb2025 23:59:25.562] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TitanConor lost connection: Disconnected
+[19Feb2025 23:59:25.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor left the game
+[19Feb2025 23:59:25.596] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.

@@ -5299,6 +5299,12 @@
     },
     "done": true
   },
+  "botanypots:husbandry/hopper_botany_pot": {
+    "criteria": {
+      "get_hopper_pot": "2025-02-19 23:54:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_orange_to_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-18 23:24:06 +0000"
