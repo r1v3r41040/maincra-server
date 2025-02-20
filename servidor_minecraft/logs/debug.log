@@ -11478,3 +11478,47 @@ java.lang.NullPointerException: null
 [19Feb2025 23:59:25.562] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TitanConor lost connection: Disconnected
 [19Feb2025 23:59:25.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TitanConor left the game
 [19Feb2025 23:59:25.596] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='TitanConor', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[20Feb2025 00:01:09.294] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[20Feb2025 00:01:09.330] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Feb2025 00:01:09.343] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Feb2025 00:01:37.840] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:1597]: net.minecraft.item.crafting.FurnaceRecipe@fd35be2
+[20Feb2025 00:06:09.293] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[20Feb2025 00:06:09.324] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Feb2025 00:06:09.338] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Feb2025 00:06:49.009] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Xx_R1V3R4_xX lost connection: Disconnected
+[20Feb2025 00:06:49.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Xx_R1V3R4_xX left the game
+[20Feb2025 00:06:49.046] [Server thread/DEBUG] [Game Stages/]: Saved 0 stages for TextComponent{text='Xx_R1V3R4_xX', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}.
+[20Feb2025 00:07:06.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[20Feb2025 00:07:06.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Feb2025 00:07:06.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Feb2025 00:07:06.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Feb2025 00:07:06.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Feb2025 00:07:06.460] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Feb2025 00:07:06.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Feb2025 00:07:06.461] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Feb2025 00:07:06.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Feb2025 00:07:06.463] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Feb2025 00:07:06.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[20Feb2025 00:07:06.464] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[20Feb2025 00:07:06.464] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Feb2025 00:07:06.479] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Feb2025 00:07:06.518] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[20Feb2025 00:07:06.518] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[20Feb2025 00:07:06.527] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Feb2025 00:07:06.560] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[20Feb2025 00:07:06.560] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[20Feb2025 00:07:06.561] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Feb2025 00:07:06.561] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[20Feb2025 00:07:06.561] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[20Feb2025 00:07:06.562] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Feb2025 00:07:06.562] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[20Feb2025 00:07:06.563] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[20Feb2025 00:07:06.563] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[20Feb2025 00:07:06.567] [Server thread/DEBUG] [com.direwolf20.buildinggadgets.common.BuildingGadgets/]: Clearing save caches
+[20Feb2025 00:07:06.567] [Server thread/DEBUG] [com.direwolf20.buildinggadgets.common.BuildingGadgets/]: Finished clearing save caches
+[20Feb2025 00:07:06.571] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[20Feb2025 00:07:06.571] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[20Feb2025 00:07:06.572] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file buildinggadgets-server.toml changed, sending notifies
+[20Feb2025 00:07:06.572] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file buildinggadgets-server.toml changed, sending notifies
+[20Feb2025 00:07:06.574] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file Mekanism/generators.toml changed, sending notifies
+[20Feb2025 00:07:06.574] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file Mekanism/generators.toml changed, sending notifies
